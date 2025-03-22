@@ -44,6 +44,9 @@
 		}
 
 		&__links {
+
+			flex: 0 1 auto; // grow shrink basis
+
 			flex-grow: 1;
 
 			.list {
